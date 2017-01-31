@@ -1,13 +1,13 @@
 public void setup()
 {
 	background(209,244,255);
-	size(400,400);
+	size(800,800);
 	fill(0);
 }
 
 public void draw()
 {
-	sierpinski(20,380,360);
+	sierpinski(40,760,720);
 }
 
 public void mouseDragged()//optional
